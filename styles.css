@@ -31,13 +31,14 @@ h2{
     text-align: center;
 }
 
+.front-images{
+    height: 500px;
+    width: 500px;
+}
+
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.front-images{
-    height: 500px;
-    width: 500px;
-}
